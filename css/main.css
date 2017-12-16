@@ -1,6 +1,6 @@
 html {
   font-family: Georgia, serif;
-  background-image: url(../images/sloth-bg.svg);
+  background-image: url("../images/sloth-bg.svg");
   background-position: top left;
   background-size: 48px 48px;
   background-color: #bea586;
@@ -24,7 +24,6 @@ body {
   padding-top: 3px;
   border-top: 2px solid rgba(28, 14, 0, 1);
 }
-
 
 h1 {
   color: #fff;
